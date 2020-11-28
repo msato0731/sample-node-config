@@ -1,0 +1,9 @@
+{
+  "name": "nodeconfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3"
+  }
+}
